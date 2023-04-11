@@ -14,4 +14,4 @@ Several other files are present beyond the folders seen. The "ECSgraph.png" show
 
 ![Screenshot](PTgraph.png)
 
-The "Project SeaNet.docx" word file contain all the preliminary requirements, ideas and features I wanted to implement and develop. Finally the "Schedule.docx" is a little schedule (template) made to try and advance the project in a timely manner, it's a nice template that you might be interested in having and comes from the Google Data Analytics Course on Coursera, something you might be interested in having and using.
+The "Project SeaNet.docx" word file contains all the preliminary requirements, ideas and features I wanted to implement and develop. Finally the "Schedule.docx" is a little schedule (template) made to try and advance the project in a timely manner, it's a nice template that you might be interested in having and comes from the Google Data Analytics Course on Coursera, something you might be interested in having and using.
